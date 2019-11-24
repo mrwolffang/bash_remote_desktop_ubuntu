@@ -1,4 +1,4 @@
 #!/bin/sh
 apt-get update
 apt-get upgrade
-apt-get -y install xorg xrdp lxde
+apt-get install -y xorg xrdp lxde
